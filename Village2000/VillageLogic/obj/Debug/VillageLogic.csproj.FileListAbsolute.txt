@@ -1,0 +1,5 @@
+C:\Users\smo\Dropbox\Projekter\Village2000\VillageLogic\bin\Debug\VillageLogic.dll
+C:\Users\smo\Dropbox\Projekter\Village2000\VillageLogic\bin\Debug\VillageLogic.pdb
+C:\Users\smo\Dropbox\Projekter\Village2000\VillageLogic\obj\Debug\VillageLogic.csprojResolveAssemblyReference.cache
+C:\Users\smo\Dropbox\Projekter\Village2000\VillageLogic\obj\Debug\VillageLogic.dll
+C:\Users\smo\Dropbox\Projekter\Village2000\VillageLogic\obj\Debug\VillageLogic.pdb
